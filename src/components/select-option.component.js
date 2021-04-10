@@ -1,6 +1,6 @@
-import {Component} from 'react';
+import React from 'react';
 
-class SelectOptionComponent extends Component {
+class SelectOptionComponent extends React.PureComponent {
 	constructor(props) {
 		super(props);
 		this.handleSelectChange = this.handleSelectChange.bind(this)

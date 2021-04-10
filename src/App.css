@@ -31,5 +31,6 @@
     z-index: 1;
 
     border: aqua 0.1rem solid !important;
+    border-radius: 0.5rem !important;
     padding: 0.3rem !important;
 }
